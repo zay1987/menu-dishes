@@ -1,4 +1,5 @@
 [
+ 
   {
     "name": "Berenjenas rellenas",
     "emoji": "🍆"
@@ -8,7 +9,7 @@
     "emoji": "🍛"
   },
   {
-    "name": "Salmón con salsa de soja",
+    "name": "Salmón a la plancha",
     "emoji": "🐟"
   },
   {
@@ -16,59 +17,11 @@
     "emoji": "🥔"
   },
   {
-    "name": "Arroz amarillo con verduras",
+    "name": "Arroz con pollo",
     "emoji": "🍚"
   },
   {
-    "name": "Ternera con zanahorias",
-    "emoji": "🥩"
-  },
-  {
-    "name": "Empanadas argentinas",
-    "emoji": "🥟"
-  },
-  {
-    "name": "Ensalada de boniato",
-    "emoji": "🥗"
-  },
-  {
-    "name": "Legumbres",
-    "emoji": "🌱"
-  },
-  {
-    "name": "Merluza en salsa",
-    "emoji": "🦈"
-  },
-  {
-    "name": "Macarrones con tomate",
-    "emoji": "🍝"
-  },
-  {
-    "name": "Espaguetis a la carbonara",
-    "emoji": "🍝"
-  },
-  {
-    "name": "Aguacate relleno de langostinos",
-    "emoji": "🥑"
-  },
-  {
-    "name": "Quinoa con verduras",
-    "emoji": "🥗"
-  },
-  {
-    "name": "Calamares a la plancha",
-    "emoji": "🦑"
-  },
-  {
-    "name": "Pollo empanado con ensalada",
-    "emoji": "🍗"
-  },
-  {
-    "name": "Croquetas caseras",
-    "emoji": "🥟"
-  },
-  {
-    "name": "Ternera a la plancha con pimientos",
+    "name": "Ternera guisada con zanahorias",
     "emoji": "🥩"
   },
   {
@@ -76,927 +29,443 @@
     "emoji": "🥗"
   },
   {
-    "name": "Sopa de verduras",
-    "emoji": "🥣"
-  },
-  {
-    "name": "Pizza margarita casera",
-    "emoji": "🍕"
-  },
-  {
-    "name": "Hamburguesa de lentejas",
-    "emoji": "🍔"
-  },
-  {
-    "name": "Pollo al limón",
-    "emoji": "🍋"
-  },
-  {
-    "name": "Paella de mariscos",
+    "name": "Lentejas con chorizo",
     "emoji": "🥘"
   },
   {
-    "name": "Langostinos al ajillo",
-    "emoji": "🦐"
-  },
-  {
-    "name": "Aguacate con salmón ahumado",
-    "emoji": "🥑"
-  },
-  {
-    "name": "Guiso de garbanzos",
-    "emoji": "🥘"
-  },
-  {
-    "name": "Tacos de pescado",
-    "emoji": "🌮"
-  },
-  {
-    "name": "Lasaña de verduras",
-    "emoji": "🍝"
-  },
-  {
-    "name": "Ensalada de quinoa y pollo",
-    "emoji": "🥗"
-  },
-  {
-    "name": "Tarta de calabaza",
-    "emoji": "🎃"
-  },
-  {
-    "name": "Estofado de ternera",
-    "emoji": "🥘"
-  },
-  {
-    "name": "Huevos rellenos",
-    "emoji": "🥚"
+    "name": "Merluza en salsa verde",
+    "emoji": "🦈"
   },
   {
     "name": "Fajitas de pollo",
     "emoji": "🌮"
   },
   {
-    "name": "Crema de calabacín",
-    "emoji": "🥒"
+    "name": "Espaguetis a la carbonara",
+    "emoji": "🍝"
   },
   {
-    "name": "Wok de verduras y pollo",
-    "emoji": "🥡"
+    "name": "Macarrones con tomate y queso",
+    "emoji": "🍝"
   },
   {
-    "name": "Ratatouille",
-    "emoji": "🍆"
-  },
-  {
-    "name": "Salmón al horno con espárragos",
-    "emoji": "🐟"
-  },
-  {
-    "name": "Croquetas de jamón",
-    "emoji": "🥟"
-  },
-  {
-    "name": "Calabacines rellenos de arroz",
-    "emoji": "🥒"
-  },
-  {
-    "name": "Curry de garbanzos",
-    "emoji": "🍛"
-  },
-  {
-    "name": "Cuscús con pollo y verduras",
+    "name": "Quinoa con verduras",
     "emoji": "🥗"
   },
   {
-    "name": "Sopa de pollo",
-    "emoji": "🥣"
+    "name": "Hamburguesa de ternera",
+    "emoji": "🍔"
   },
   {
-    "name": "Pollo al horno con limón",
-    "emoji": "🍋"
+    "name": "Bacalao a la vizcaína",
+    "emoji": "🐟"
   },
   {
-    "name": "Pizza de verduras",
+    "name": "Pizza margarita",
     "emoji": "🍕"
-  },
-  {
-    "name": "Ensalada caprese",
-    "emoji": "🍅"
-  },
-  {
-    "name": "Sushi casero",
-    "emoji": "🍣"
-  },
-  {
-    "name": "Arroz con leche",
-    "emoji": "🍚"
-  },
-  {
-    "name": "Tarta de manzana",
-    "emoji": "🍎"
-  },
-  {
-    "name": "Bacalao con tomate",
-    "emoji": "🐟"
-  },
-  {
-    "name": "Macarrones con queso",
-    "emoji": "🧀"
-  },
-  {
-    "name": "Fideuá de mariscos",
-    "emoji": "🍤"
-  },
-  {
-    "name": "Tabulé de verduras",
-    "emoji": "🥗"
-  },
-  {
-    "name": "Ensalada de espinacas y nueces",
-    "emoji": "🥬"
-  },
-  {
-    "name": "Tortilla de espinacas",
-    "emoji": "🥚"
   },
   {
     "name": "Pimientos rellenos de carne",
     "emoji": "🌶️"
   },
   {
-    "name": "Alcachofas al horno",
-    "emoji": "🌱"
+    "name": "Estofado de garbanzos",
+    "emoji": "🥘"
   },
   {
-    "name": "Espaguetis al pesto",
+    "name": "Pollo al ajillo",
+    "emoji": "🍗"
+  },
+  {
+    "name": "Tacos de pescado",
+    "emoji": "🌮"
+  },
+  {
+    "name": "Wok de verduras y pollo",
+    "emoji": "🥡"
+  },
+  {
+    "name": "Ensalada de pasta",
     "emoji": "🍝"
   },
   {
-    "name": "Salteado de langostinos y verduras",
-    "emoji": "🦐"
+    "name": "Croquetas de jamón",
+    "emoji": "🥟"
+  },
+  {
+    "name": "Ratatouille",
+    "emoji": "🍆"
+  },
+  {
+    "name": "Paella de mariscos",
+    "emoji": "🥘"
+  },
+  {
+    "name": "Calabacines rellenos de arroz",
+    "emoji": "🥒"
+  },
+  {
+    "name": "Ternera a la plancha con pimientos",
+    "emoji": "🥩"
+  },
+  {
+    "name": "Sopa de pollo con fideos",
+    "emoji": "🥣"
+  },
+  {
+    "name": "Arroz negro con calamares",
+    "emoji": "🍚"
+  },
+  {
+    "name": "Lasaña de carne",
+    "emoji": "🍝"
+  },
+  {
+    "name": "Cuscús con pollo y verduras",
+    "emoji": "🥗"
   },
   {
     "name": "Pollo tikka masala",
     "emoji": "🍛"
   },
   {
-    "name": "Panqueques de avena y plátano",
-    "emoji": "🥞"
+    "name": "Espaguetis con gambas",
+    "emoji": "🍤"
   },
   {
-    "name": "Guiso de lentejas",
+    "name": "Atún a la plancha con ensalada",
+    "emoji": "🐟"
+  },
+  {
+    "name": "Judías verdes con patatas",
+    "emoji": "🥗"
+  },
+  {
+    "name": "Estofado de ternera con patatas",
     "emoji": "🥘"
   },
   {
-    "name": "Tarta de queso casera",
-    "emoji": "🍰"
+    "name": "Huevos revueltos con espinacas",
+    "emoji": "🥚"
   },
   {
-    "name": "Rollitos de primavera",
-    "emoji": "🥢"
+    "name": "Ensalada caprese",
+    "emoji": "🍅"
   },
   {
     "name": "Salteado de tofu y verduras",
     "emoji": "🥡"
   },
   {
-    "name": "Sándwich de aguacate y pollo",
-    "emoji": "🥪"
+    "name": "Arroz con costillas",
+    "emoji": "🍚"
   },
   {
-    "name": "Sopa de tomate",
-    "emoji": "🍅"
+    "name": "Ensalada de quinoa y aguacate",
+    "emoji": "🥗"
   },
   {
-    "name": "Espaguetis con gambas",
-    "emoji": "🍤"
+    "name": "Pollo asado con limón",
+    "emoji": "🍗"
   },
   {
-    "name": "Burritos de carne",
-    "emoji": "🌯"
+    "name": "Fideos chinos con pollo",
+    "emoji": "🥢"
+  },
+  {
+    "name": "Estofado de cordero",
+    "emoji": "🥩"
+  },
+  {
+    "name": "Ensalada de garbanzos y espinacas",
+    "emoji": "🥗"
+  },
+  {
+    "name": "Lubina al horno",
+    "emoji": "🐟"
+  },
+  {
+    "name": "Arroz al curry con verduras",
+    "emoji": "🍛"
+  },
+  {
+    "name": "Pasta al pesto",
+    "emoji": "🍝"
+  },
+  {
+    "name": "Alcachofas al horno",
+    "emoji": "🌱"
+  },
+  {
+    "name": "Tortilla de espinacas",
+    "emoji": "🥚"
+  },
+  {
+    "name": "Chili con carne",
+    "emoji": "🌶️"
+  },
+  {
+    "name": "Brochetas de pollo",
+    "emoji": "🍢"
+  },
+  {
+    "name": "Sopa minestrone",
+    "emoji": "🥣"
+  },
+  {
+    "name": "Ternera teriyaki",
+    "emoji": "🥩"
+  },
+  {
+    "name": "Arroz tres delicias",
+    "emoji": "🍚"
+  },
+  {
+    "name": "Ensalada nicoise",
+    "emoji": "🥗"
+  },
+  {
+    "name": "Pollo frito estilo sureño",
+    "emoji": "🍗"
+  },
+  {
+    "name": "Empanadas chilenas",
+    "emoji": "🥟"
+  },
+  {
+    "name": "Tallarines con verduras salteadas",
+    "emoji": "🍝"
+  },
+  {
+    "name": "Pulpo a la gallega",
+    "emoji": "🐙"
+  },
+  {
+    "name": "Canelones de espinacas y ricota",
+    "emoji": "🍝"
+  },
+  {
+    "name": "Sopa de pescado",
+    "emoji": "🥣"
+  },
+  {
+    "name": "Pollo con champiñones",
+    "emoji": "🍗"
+  },
+  {
+    "name": "Carrillada de cerdo",
+    "emoji": "🥩"
+  },
+  {
+    "name": "Ensalada de arroz y atún",
+    "emoji": "🥗"
+  },
+  {
+    "name": "Calamares en su tinta",
+    "emoji": "🦑"
+  },
+  {
+    "name": "Arroz con verduras y pollo",
+    "emoji": "🍚"
+  },
+  {
+    "name": "Filete de pescado al ajillo",
+    "emoji": "🐟"
+  },
+  {
+    "name": "Zarangollo murciano",
+    "emoji": "🥚"
   },
   {
     "name": "Albóndigas en salsa",
     "emoji": "🍖"
   },
   {
-    "name": "Quiche de espinacas",
-    "emoji": "🥧"
+    "name": "Ensalada de lentejas con aguacate",
+    "emoji": "🥗"
   },
   {
-    "name": "Plato adicional 72",
-    "emoji": "🍽️"
+    "name": "Pollo con almendras",
+    "emoji": "🍗"
   },
   {
-    "name": "Plato adicional 73",
-    "emoji": "🍽️"
+    "name": "Tabulé con menta y limón",
+    "emoji": "🥗"
   },
   {
-    "name": "Plato adicional 74",
-    "emoji": "🍽️"
+    "name": "Caballa a la plancha",
+    "emoji": "🐟"
   },
   {
-    "name": "Plato adicional 75",
-    "emoji": "🍽️"
+    "name": "Rabo de toro",
+    "emoji": "🥩"
   },
   {
-    "name": "Plato adicional 76",
-    "emoji": "🍽️"
+    "name": "Cazuela de mariscos",
+    "emoji": "🥘"
   },
   {
-    "name": "Plato adicional 77",
-    "emoji": "🍽️"
+    "name": "Ensalada griega",
+    "emoji": "🥗"
   },
   {
-    "name": "Plato adicional 78",
-    "emoji": "🍽️"
+    "name": "Fusilli con verduras al horno",
+    "emoji": "🍝"
   },
   {
-    "name": "Plato adicional 79",
-    "emoji": "🍽️"
+    "name": "Musaka griega",
+    "emoji": "🍆"
   },
   {
-    "name": "Plato adicional 80",
-    "emoji": "🍽️"
+    "name": "Pollo marinado al horno",
+    "emoji": "🍗"
   },
   {
-    "name": "Plato adicional 81",
-    "emoji": "🍽️"
+    "name": "Verduras a la parrilla",
+    "emoji": "🌱"
   },
   {
-    "name": "Plato adicional 82",
-    "emoji": "🍽️"
+    "name": "Espaguetis con albóndigas",
+    "emoji": "🍝"
   },
   {
-    "name": "Plato adicional 83",
-    "emoji": "🍽️"
+    "name": "Cordero al horno",
+    "emoji": "🥩"
   },
   {
-    "name": "Plato adicional 84",
-    "emoji": "🍽️"
+    "name": "Chop suey de pollo",
+    "emoji": "🥡"
   },
   {
-    "name": "Plato adicional 85",
-    "emoji": "🍽️"
+    "name": "Pescado en papillote",
+    "emoji": "🐟"
   },
   {
-    "name": "Plato adicional 86",
-    "emoji": "🍽️"
+    "name": "Alubias con almejas",
+    "emoji": "🥘"
   },
   {
-    "name": "Plato adicional 87",
-    "emoji": "🍽️"
+    "name": "Ensalada de espinacas y queso de cabra",
+    "emoji": "🥗"
   },
   {
-    "name": "Plato adicional 88",
-    "emoji": "🍽️"
+    "name": "Arroz con bogavante",
+    "emoji": "🍚"
   },
   {
-    "name": "Plato adicional 89",
-    "emoji": "🍽️"
+    "name": "Solomillo de cerdo con mostaza",
+    "emoji": "🥩"
   },
   {
-    "name": "Plato adicional 90",
-    "emoji": "🍽️"
+    "name": "Tacos de pollo al pastor",
+    "emoji": "🌮"
   },
   {
-    "name": "Plato adicional 91",
-    "emoji": "🍽️"
+    "name": "Judiones con chorizo",
+    "emoji": "🥘"
   },
   {
-    "name": "Plato adicional 92",
-    "emoji": "🍽️"
+    "name": "Salmón teriyaki",
+    "emoji": "🐟"
   },
   {
-    "name": "Plato adicional 93",
-    "emoji": "🍽️"
+    "name": "Arroz con conejo",
+    "emoji": "🍚"
   },
   {
-    "name": "Plato adicional 94",
-    "emoji": "🍽️"
+    "name": "Pasta puttanesca",
+    "emoji": "🍝"
   },
   {
-    "name": "Plato adicional 95",
-    "emoji": "🍽️"
+    "name": "Verduras al wok con tofu",
+    "emoji": "🥡"
   },
   {
-    "name": "Plato adicional 96",
-    "emoji": "🍽️"
+    "name": "Costillas de cerdo a la barbacoa",
+    "emoji": "🍖"
   },
   {
-    "name": "Plato adicional 97",
-    "emoji": "🍽️"
+    "name": "Ensalada de patata alemana",
+    "emoji": "🥔"
   },
   {
-    "name": "Plato adicional 98",
-    "emoji": "🍽️"
+    "name": "Pollo al estilo hindú",
+    "emoji": "🍛"
   },
   {
-    "name": "Plato adicional 99",
-    "emoji": "🍽️"
+    "name": "Sopa ramen con huevo",
+    "emoji": "🍜"
   },
   {
-    "name": "Plato adicional 100",
-    "emoji": "🍽️"
+    "name": "Atún con sésamo y soja",
+    "emoji": "🐟"
   },
   {
-    "name": "Plato adicional 101",
-    "emoji": "🍽️"
+    "name": "Huevos a la flamenca",
+    "emoji": "🥚"
   },
   {
-    "name": "Plato adicional 102",
-    "emoji": "🍽️"
+    "name": "Brochetas de pescado",
+    "emoji": "🍢"
   },
   {
-    "name": "Plato adicional 103",
-    "emoji": "🍽️"
+    "name": "Carpaccio de ternera",
+    "emoji": "🥩"
   },
   {
-    "name": "Plato adicional 104",
-    "emoji": "🍽️"
+    "name": "Curry de lentejas",
+    "emoji": "🍛"
   },
   {
-    "name": "Plato adicional 105",
-    "emoji": "🍽️"
+    "name": "Empanadas de espinaca",
+    "emoji": "🥟"
   },
   {
-    "name": "Plato adicional 106",
-    "emoji": "🍽️"
+    "name": "Arroz frito estilo tailandés",
+    "emoji": "🍚"
   },
   {
-    "name": "Plato adicional 107",
-    "emoji": "🍽️"
+    "name": "Fideuá de pescado",
+    "emoji": "🍤"
   },
   {
-    "name": "Plato adicional 108",
-    "emoji": "🍽️"
+    "name": "Cazuela de fideos y carne",
+    "emoji": "🥘"
   },
   {
-    "name": "Plato adicional 109",
-    "emoji": "🍽️"
+    "name": "Tortilla paisana",
+    "emoji": "🥚"
   },
   {
-    "name": "Plato adicional 110",
-    "emoji": "🍽️"
+    "name": "Ensalada Waldorf",
+    "emoji": "🥗"
   },
   {
-    "name": "Plato adicional 111",
-    "emoji": "🍽️"
+    "name": "Salmón al horno con eneldo",
+    "emoji": "🐟"
   },
   {
-    "name": "Plato adicional 112",
-    "emoji": "🍽️"
+    "name": "Bacalao con pisto",
+    "emoji": "🐟"
   },
   {
-    "name": "Plato adicional 113",
-    "emoji": "🍽️"
+    "name": "Pollo con soja y miel",
+    "emoji": "🍗"
   },
   {
-    "name": "Plato adicional 114",
-    "emoji": "🍽️"
+    "name": "Tallarines al estilo chino",
+    "emoji": "🥡"
   },
   {
-    "name": "Plato adicional 115",
-    "emoji": "🍽️"
+    "name": "Cuscús con cordero",
+    "emoji": "🍛"
   },
   {
-    "name": "Plato adicional 116",
-    "emoji": "🍽️"
+    "name": "Caldereta de pescado",
+    "emoji": "🥘"
   },
   {
-    "name": "Plato adicional 117",
-    "emoji": "🍽️"
+    "name": "Alcachofas con jamón",
+    "emoji": "🌱"
   },
-  {
-    "name": "Plato adicional 118",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 119",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 120",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 121",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 122",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 123",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 124",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 125",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 126",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 127",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 128",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 129",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 130",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 131",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 132",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 133",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 134",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 135",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 136",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 137",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 138",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 139",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 140",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 141",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 142",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 143",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 144",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 145",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 146",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 147",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 148",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 149",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 150",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 151",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 152",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 153",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 154",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 155",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 156",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 157",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 158",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 159",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 160",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 161",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 162",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 163",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 164",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 165",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 166",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 167",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 168",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 169",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 170",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 171",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 172",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 173",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 174",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 175",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 176",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 177",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 178",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 179",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 180",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 181",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 182",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 183",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 184",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 185",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 186",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 187",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 188",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 189",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 190",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 191",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 192",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 193",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 194",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 195",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 196",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 197",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 198",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 199",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 200",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 201",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 202",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 203",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 204",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 205",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 206",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 207",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 208",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 209",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 210",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 211",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 212",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 213",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 214",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 215",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 216",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 217",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 218",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 219",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 220",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 221",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 222",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 223",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 224",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 225",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 226",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 227",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 228",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 229",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 230",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 231",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 232",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 233",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 234",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 235",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 236",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 237",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 238",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 239",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 240",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 241",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 242",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 243",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 244",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 245",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 246",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 247",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 248",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 249",
-    "emoji": "🍽️"
-  },
-  {
-    "name": "Plato adicional 250",
-    "emoji": "🍽️"
-  }
 ]
